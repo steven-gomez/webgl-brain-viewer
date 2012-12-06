@@ -20,8 +20,6 @@ Then, view the visualization in a WebGL-enabled browser at: http://localhost:800
 
 ## Original Authors
 
-This project was forked from the Brain Surface and Tractography Viewer, which was developed at Children's Hospital Boston in the Fetal-Neonatal Neuroimaging and Development Science Center. The original authors are Dan Ginsburg, Rudolph Pienaar, and Stephan Gerhard.
-
-The original GitHub repository is available at: https://github.com/danginsburg/webgl-brain-viewer
+This project was forked from the Brain Surface and Tractography Viewer ([GitHub repository](https://github.com/danginsburg/webgl-brain-viewer)), which was developed at Children's Hospital Boston in the Fetal-Neonatal Neuroimaging and Development Science Center. The original authors are Dan Ginsburg, Rudolph Pienaar, and Stephan Gerhard.
 
 A demo can be viewed at: http://www.nmr.mgh.harvard.edu/~rudolph/webgl/brain_viewer/brain_viewer.html

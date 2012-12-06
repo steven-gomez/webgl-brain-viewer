@@ -1,0 +1,33 @@
+html, body { 
+  height: 100%; background-color: #121212;
+} 
+
+body { 
+  margin: 0px; border: 0px; 
+} 
+
+.box25 { 
+  float: left; width: 25%; height:100%; 
+} 
+
+.box75 { 
+  float: left; width:75%; height:100%; 
+}
+
+.box100 { 
+  float: left; width:100%; height:100%; 
+}
+
+.box0 { 
+  float: left; width:0%; height:100%; 
+}
+
+.container { clear: both; }
+
+canvas { 
+  margin: 0px; border: 0px; width: 100%; height:100%; 
+}
+
+.centered_text {
+  font-size: 10px; text-align: center; 
+}
